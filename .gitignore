@@ -15,5 +15,6 @@ bin/
 .DS_Store
 Thumbs.db
 
+self/HTML/
 DSA/
 OOPS/
